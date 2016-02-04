@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 Student.destroy_all
 House.destroy_all
 
@@ -107,4 +105,4 @@ Student.create [ { name: 'Euan Abercrombie', img_url: 'http://images.clipartpand
 { name: 'Helga Hufflepuff', img_url: 'http://img2.wikia.nocookie.net/__cb20140615154415/harrypotter/images/8/8c/PR_007_001-e1313269883743.jpg', house_id: hufflepuff.id },
 { name: 'Rowena Ravenclaw', img_url: 'http://img4.wikia.nocookie.net/__cb20140615152737/harrypotter/images/8/8e/Ravenclaw_paintfilter-688x1223.jpg', house_id: ravenclaw.id },
 { name: 'Salazar Slytherin', img_url: 'http://img2.wikia.nocookie.net/__cb20140615154545/harrypotter/images/2/2b/PR_007_005-e1313269785740.jpg', house_id: slytherin.id } ]
->>>>>>> 14e3fb3b228d97f89142e397d8b0bb461e99cb65
+
